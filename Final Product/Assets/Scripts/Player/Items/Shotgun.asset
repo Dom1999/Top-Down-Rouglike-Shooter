@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 634c0d48447c0ef44a6551be47b85bc8, type: 3}
+  m_Name: Shotgun
+  m_EditorClassIdentifier: 
+  id: 1
+  uiDisplay: {fileID: 345353922772917795, guid: cf20925fba2515742b803d29f92f1123, type: 3}
+  type: 0
+  description: This is a GUN
+  weaponID: 1
+  damage: 50
+  ammo: 10
+  rateOfFire: 5
